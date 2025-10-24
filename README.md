@@ -1,4 +1,4 @@
-#Eu sou Vitor Rodrigues:
+##Eu sou Vitor Rodrigues:
 Sou um profissional *responsável, analítico e comunicativo, com experiência em **liderança de equipe, atendimento ao cliente e gestão de setor*.  
 Tenho interesse e foco em *Infraestrutura de TI, Redes e Suporte Técnico*, áreas nas quais busco aprimorar meus conhecimentos técnicos e adquirir experiência prática para evoluir profissionalmente.
 
