@@ -32,6 +32,8 @@ Tenho interesse e foco em *Infraestrutura de TI, Redes e Suporte Técnico*, áre
 
 ## 📘 Cursos Complementares
 
+- Aws
+- Linux
 - *Python – Alura (Cursando)*  
 - *Inglês – Mairo Vergara (Cursando)*  
 - *Pacote Office (Word, Excel, PowerPoint) – Alura (Cursando)*  
